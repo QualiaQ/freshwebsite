@@ -1,7 +1,7 @@
 ---
 title: "Presentations"
 date: 2020-11-02T18:06:18+01:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
@@ -10,6 +10,10 @@ tags:
 
 
 ## Invited Talks
+
+**2021:**
+
++ "Canonical Microcircuits for Predictive Coding and the Phenomenal Overflow Hypothesis." Cognitive science and Neuroscience seminar series, Computational Neuroscience and Visual Perception Laboratory. Atatürk Rönesansını Devam Ettiren Üniversite, Istambul, Turkey.
 
 **2020:**  
   
@@ -45,9 +49,13 @@ tags:
 
 ## Peer-reviewed Talks
 
+**2021:**
+
++ "What do illusionists mean when they talk about ‘what-it-is-likeness’ of conscious experience?" 24th annual meeting of the Association for the Scientific Study of Consciousness. Tel-Aviv, Israel.
+
 **2020:**
 
-+ "Better Stewards of Our Nature: Can AI Foster Morality?" Philosophy of Human-Technology Relations Conference, University of Twente, Netherlands
++ "Better Stewards of Our Nature: Can AI Foster Morality?" Philosophy of Human-Technology Relations Conference, University of Twente, Netherlands.
 
 **2019:**
 
@@ -87,9 +95,13 @@ tags:
 
 ## Posters
 
+**2021:**
+
++ "Vox Ex Machina: Semantic Competence of Natural Language Models" (with Raphaël Millière) 47th Annual Meeting of the Society for Psychology and Philosophy. Online.
+
 **2017:**
 
-+ "Predictive Processing and the Admissible Contents Debate". Expecting Ourselves - 1st X-spect Workshop. University of Edinburgh, Scotland
++ "Predictive Processing and the Admissible Contents Debate". Expecting Ourselves - 1st X-spect Workshop. University of Edinburgh, Scotland.
 
 **2015:**
 

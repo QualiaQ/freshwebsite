@@ -1,7 +1,7 @@
 ---
 title: "Also featured in..."
 date: 2020-11-02T18:06:18+01:00
-draft: true
+draft: false
 toc: false
 images:
 tags:

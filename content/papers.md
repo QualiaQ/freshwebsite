@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 date: 2020-11-02T18:06:18+01:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
@@ -15,6 +15,8 @@ tags:
 + **Dolega, K.**, Roelofs, L. & Schlicht, T. (2018). [Special Issue: Enactivism vs. Representationalism.](https://www.tandfonline.com/toc/rpex20/21/2?nav=tocList) *Philosophical Explorations*, 21(2).
 
 ## Journal Articles
+
++ Schlicht, T., & **Dolega, K.** (2021). [You can’t always get what you want: Predictive processing and consciousness.](https://doi.org/10.33735/phimisci.2021.80) Philosophy and the Mind Sciences, 2. 
 
 + Dewhurst, J. & **Dolega, K.** (2020). Attending to the Illusion of Consciousness. *Journal of Consciousness Studies*, 27/5-6: 54-61.
 
