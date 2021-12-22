@@ -16,6 +16,8 @@ tags:
 
 ## Journal Articles
 
++ Bruineberg J., **Dolega K.**, Dewhurst J. and Baltieri, M. (forthcoming). [The Emperor’s New Markov Blankets.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/715C589A73DDF861DCF8997271DE0B8C/S0140525X21002351a.pdf/the-emperors-new-markov-blankets.pdf) Behavioral and Brain Sciences, 1-63. doi:10.1017/S0140525X21002351
+
 + Schlicht, T., & **Dolega, K.** (2021). [You can’t always get what you want: Predictive processing and consciousness.](https://doi.org/10.33735/phimisci.2021.80) Philosophy and the Mind Sciences, 2. 
 
 + Dewhurst, J. & **Dolega, K.** (2020). Attending to the Illusion of Consciousness. *Journal of Consciousness Studies*, 27/5-6: 54-61.
