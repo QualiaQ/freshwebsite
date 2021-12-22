@@ -3,19 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://qualiaq.github.io/blog/</loc>
+    <loc>https://qualiaq.github.io/tags/about/</loc>
+    <lastmod>2021-07-21T18:06:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qualiaq.github.io/tags/bio/</loc>
+    <lastmod>2021-07-21T18:06:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qualiaq.github.io/tags/introduction/</loc>
+    <lastmod>2021-07-21T18:06:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://qualiaq.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://qualiaq.github.io/series/</loc>
+    <lastmod>2021-07-21T18:06:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://qualiaq.github.io/tags/</loc>
+    <lastmod>2021-07-21T18:06:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qualiaq.github.io/about/</loc>
+    <lastmod>2021-07-21T18:06:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qualiaq.github.io/outreach/</loc>
+    <lastmod>2020-11-02T18:06:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qualiaq.github.io/talks/</loc>
+    <lastmod>2020-11-02T18:06:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qualiaq.github.io/papers/</loc>
+    <lastmod>2020-11-02T18:06:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qualiaq.github.io/tags/untagged/</loc>
+    <lastmod>2020-11-02T18:06:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qualiaq.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qualiaq.github.io/series/</loc>
   </url>
   
 </urlset>
